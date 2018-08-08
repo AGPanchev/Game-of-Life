@@ -1,0 +1,36 @@
+body {
+	font-family: sans-serif;
+}
+
+canvas#gameboard {
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 1em;
+}
+
+.generate-grid-holder{
+	text-align: center;
+}
+
+.generate-grid-button{
+	margin-top: 24px;
+}
+.grid-header-holder{
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+}
+.grid-holder{
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+}
+.grid-generation-info{
+	padding: 10px;
+	font-weight: bold;
+}
+.enter-details-message{
+	padding: 20px;
+	background-color: #f44336;
+	color: white;
+}
